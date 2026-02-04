@@ -1,6 +1,6 @@
-# Digital Marketing Performance Analysis & Strategy Optimization
+# Digital Marketing Performance Optimization
 
-**Analyzing Multi-Platform Ads Data (Meta Ads, TikTok Ads, Google Ads)**
+**Analyzing and optimizing Multi-Platform Ads (Meta Ads, TikTok Ads, Google Ads) Strategy**
 
 ---
 
