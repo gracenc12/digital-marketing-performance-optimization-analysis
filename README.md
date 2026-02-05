@@ -38,7 +38,7 @@ The key business problem is **how to convert high engagement into sustainable pr
 
 ## 4. Key Insights
 
-* **High CTR (~9.9%)** confirms strong creative performance, but **average ROAS < 1** indicates profitability issues.
+* **High CTR (~9.9%)** but **average ROAS < 1** indicates profitability issues.
 * **April (Festive Period):** Highest revenue but lowest ROAS → ads should focus on *Awareness*.
 * **July:** Highest ROAS → best period for creative testing.
 * **Week 5 Payday:** Consistent **+22% revenue uplift**, ideal for budget scaling.
