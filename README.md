@@ -32,9 +32,7 @@ The key business problem is **how to convert high engagement into sustainable pr
 
 ## 3. Tools
 
-* **Python:** Pandas, NumPy
-* **Visualization:** Matplotlib, Seaborn
-* **Analysis:** EDA, Time Series Analysis
+* **Python:** Pandas, NumPy for data analysis and Matplotlib, Seaborn for data visualization.
 
 ---
 
