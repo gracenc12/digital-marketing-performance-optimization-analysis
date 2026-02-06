@@ -73,3 +73,7 @@ The key business problem is **how to convert high engagement into sustainable pr
 
 Ad profitability is driven by **Momentum, Industry Efficiency, and Account Standardization**.
 Scaling must be **timing-driven, ROAS-controlled, and operationally consistent** to achieve sustainable growth.
+
+## 7. Authors
+- Grace Natalie Catherine
+- Ajeng Aulia Salshabilla
