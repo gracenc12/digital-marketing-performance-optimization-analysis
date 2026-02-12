@@ -2,6 +2,8 @@
 
 **Analyzing and optimizing Multi-Platform Ads (Meta Ads, TikTok Ads, Google Ads) Strategy**
 
+**This is a Data Analysis Competition Project**
+
 ---
 
 ## Data Source
