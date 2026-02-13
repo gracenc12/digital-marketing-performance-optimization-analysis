@@ -1,5 +1,8 @@
 # Digital Marketing Performance Optimization
 
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
+
 **Analyzing and optimizing Multi-Platform Ads (Meta Ads, TikTok Ads, Google Ads) Strategy**
 
 **This is a Data Analysis Competition Project (Jan-Feb 2026)**
